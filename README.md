@@ -27,9 +27,6 @@ The project is build using Laravel. I used CoreUI for the template and MySQL Dat
 
 Everyone is welcomed to contribute as soon as the version 1.0.0 is releashed. Until then I will be the only one who commits on the project. 
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
